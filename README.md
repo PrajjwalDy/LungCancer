@@ -1,6 +1,10 @@
 # LungCancer
 
-![Recording2024-07-05104026-ezgif com-video-to-gif-converter](https://github.com/PrajjwalDy/LungCancer/assets/92323404/063eaf3a-0a5c-429d-89ae-943de3d0bb7a)
+
+
+https://github.com/PrajjwalDy/LungCancer/assets/92323404/a48639a9-5211-42db-8591-152b593d8fb0
+
+
 
 
 # Lung Cancer Analysis
